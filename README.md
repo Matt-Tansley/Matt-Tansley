@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- [Resume](https://matt-tansley.quarto.pub/cv/)
+
 <!--
 **Matt-Tansley/Matt-Tansley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
