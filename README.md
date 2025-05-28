@@ -2,6 +2,11 @@
 
 - [Resume](https://matt-tansley.quarto.pub/cv/)
 
+## R Packages
+
+- [civ3](https://github.com/Matt-Tansley/civ3)
+- [horusheresy](https://github.com/Matt-Tansley/horusheresy)
+
 <!--
 **Matt-Tansley/Matt-Tansley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
